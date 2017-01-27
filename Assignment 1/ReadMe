@@ -1,0 +1,15 @@
+To run the search program :-
+
+gcc search.c
+./a.out
+
+Now enter the input file name.
+
+
+To run the sort program :-
+
+gcc sort1.c -o sort1
+gcc xsort.c -o xsort
+./xsort filename
+
+
