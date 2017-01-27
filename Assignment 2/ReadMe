@@ -1,0 +1,13 @@
+Part-1
+
+fcopy creates a copy of file1 into file2.
+To run fcopy
+
+
+gcc fcopy.c -o fcopy
+./fcopy inputfilename outputfilename
+
+
+
+
+
