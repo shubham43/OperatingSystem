@@ -1,8 +1,9 @@
 Part-1
 
 fcopy creates a copy of file1 into file2.
-To run fcopy
 
+
+To run fcopy
 
 gcc fcopy.c -o fcopy
 ./fcopy inputfilename outputfilename
@@ -10,4 +11,13 @@ gcc fcopy.c -o fcopy
 
 
 
+Part-2
 
+run runs the shell to execute a few builtin commands and other executable as per the Problem Statement.
+
+
+To run shell
+
+gcc shell.c -o shell
+gcc run.c -o run
+./run
