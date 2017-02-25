@@ -1,0 +1,18 @@
+Part-1
+
+solution to the Producer - Consumer problem
+
+gcc mProducer_nConsumer.c
+./a.out
+
+
+
+Part-2
+
+solution to the part-2 of the problem
+X.c reads from file to shared memory and if updated copies the shared memory data back to file
+
+gcc X.c -o X
+gcc Y.c -o Y
+./X filename
+./Y
