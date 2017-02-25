@@ -12,7 +12,28 @@ Part-2
 solution to the part-2 of the problem
 X.c reads from file to shared memory and if updated copies the shared memory data back to file
 
+to run the solution
+
 gcc X.c -o X
 gcc Y.c -o Y
 ./X filename
 ./Y
+
+
+
+Test added :-
+
+to run the test
+
+./X test_data.txt
+./Y
+./Y
+./Y
+.
+.
+.
+.
+.
+
+
+
