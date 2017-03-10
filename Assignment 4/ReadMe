@@ -1,0 +1,9 @@
+Part-1
+
+solution to the shuffle of the mattrix problem using threads
+
+
+To run the program
+
+gcc shuffle.c
+./a.out < input.txt
